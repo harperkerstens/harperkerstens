@@ -5,7 +5,7 @@ I'm a **fourth-year Computer Science major** at **UBCO**.
 I love building and creating software—it's my way of expressing myself through code.  
 
 ## 🌳 Outside of Computers...  
-I love **taking ankles on the court** 🌳 and **stacking bread** 💰.  
+I love **taking ankles on the court** 🏀 and **stacking bread** 💰.  
 
 ## 💻 Tech Stack  
 
