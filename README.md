@@ -6,8 +6,8 @@ Computer Science and Technology have been a life long passion of mine and I'm al
 
 
 ## What I'm listening to
-<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=popharpe&show_border=true&hide_top_artists=true">
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=popharpe" alt="Data Card for Spotify">
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=popharpe">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=popharpe&show_border=true&hide_top_artists=true" alt="Data Card for Spotify">
 </a>
 
 ## 💻 Tech Stack  
