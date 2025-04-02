@@ -1,11 +1,11 @@
-# 👋 Hey, I'm Harper!  
+# 👀 Hey, I'm Harper!  
 
 I'm a **fourth-year Computer Science major** at **UBCO**.  
 
-I love building and creating software—it's my way of expressing myself through code.  
+Computer Science and Technology have been a life long passion of mine and I'm always interested in anything tech related!
 
-## 🌳 Outside of Computers...  
-I love **taking ankles on the court** 🏀 and **stacking bread** 💰.  
+## What I'm listening to
+[![Data Card for Spotify]("https://data-card-for-spotify.herokuapp.com/api/card?user_id=popharpe")]("https://data-card-for-spotify.herokuapp.com/card?user_id=popharpe")
 
 ## 💻 Tech Stack  
 
