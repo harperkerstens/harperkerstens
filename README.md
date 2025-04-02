@@ -4,8 +4,11 @@ I'm a **fourth-year Computer Science major** at **UBCO**.
 
 Computer Science and Technology have been a life long passion of mine and I'm always interested in anything tech related!
 
+
 ## What I'm listening to
-[![Data Card for Spotify]("https://data-card-for-spotify.herokuapp.com/api/card?user_id=popharpe")]("https://data-card-for-spotify.herokuapp.com/card?user_id=popharpe")
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=popharpe">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=popharpe" alt="Data Card for Spotify">
+</a>
 
 ## 💻 Tech Stack  
 
