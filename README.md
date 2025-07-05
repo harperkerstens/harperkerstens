@@ -1,7 +1,7 @@
-<strong style="font-size: 20px">👀 code stuff</strong>
+<h1 style="border-bottom: none;">👀 code stuff</h1>
 
 
-## What I'm listening to
+<h2 style="border-bottom: none;"> What I'm listening to</h2>
 <div align="center">
   <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=popharpe">
     <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=popharpe&show_border=true&hide_top_artists=true" alt="Data Card for Spotify">
