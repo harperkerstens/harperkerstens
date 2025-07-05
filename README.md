@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/88b66686-602a-48e7-b7bd-dbaf179ce3a2" alt="spidey">
 </div>
 
-# 👀 code stuff
+# 👀 just some code stuff
 
 
 ## music stufff
