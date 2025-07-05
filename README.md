@@ -1,5 +1,4 @@
-# <span style="border-bottom: none;">👀 code stuff</span>
-
+# <strong style="font-size: 20px">👀 code stuff</strong>
 
 ## <span style="border-bottom: none;"> What I'm listening to</span>
 
