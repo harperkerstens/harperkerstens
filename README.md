@@ -1,8 +1,4 @@
-# 👀 What's up, I'm Harper  
-
-I'm a **fourth-year Computer Science major** at **UBCO**.  
-
-I'm always interested in anything tech and code related. Check out some of my school and personal projects.
+# 👀 code stuff
 
 
 ## What I'm listening to
