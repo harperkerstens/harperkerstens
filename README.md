@@ -1,6 +1,9 @@
-# <strong style="font-size: 20px">👀 code stuff</strong>
+![spidey](https://github.com/user-attachments/assets/88b66686-602a-48e7-b7bd-dbaf179ce3a2)
 
-## <span style="border-bottom: none;"> What I'm listening to</span>
+# 👀 code stuff![spidey](https://github.com/user-attachments/assets/88b66686-602a-48e7-b7bd-dbaf179ce3a2)
+
+
+## music stufff
 
 <div align="center">
   <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=popharpe">
