@@ -2,10 +2,7 @@
   <img src="https://github.com/user-attachments/assets/88b66686-602a-48e7-b7bd-dbaf179ce3a2" alt="spidey">
 </div>
 
-#  just some code stuff 👀
 
-
-## music stufff
 
 <div align="center">
   <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=popharpe">
